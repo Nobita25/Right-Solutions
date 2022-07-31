@@ -147,10 +147,8 @@ h2 {
 }
 
 h3 {
+	color: #fff;
 	font-size:23px;
-  background: -webkit-linear-gradient(#000, #c20839) !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
 }
 h4 {
 	color:#555;
